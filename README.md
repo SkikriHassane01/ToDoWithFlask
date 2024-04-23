@@ -1,4 +1,7 @@
 # To-Do Application
+## How does the project appear?
+
+<img width="646" alt="image" src="https://github.com/HassaneSkikri/ToDoWithFlask/assets/141918886/18b6becd-fe75-4c23-bf30-0b81c593b716">
 
 ## Overview
 This repository holds a simple yet powerful to-do application built with Flask. The application allows users to manage their tasks efficiently and effectively. The `instance` folder is reserved for the production configuration and test data.
@@ -27,3 +30,7 @@ This repository holds a simple yet powerful to-do application built with Flask. 
 1. Build the Docker image:
    ```bash
    docker build -t todo-app .
+
+
+
+
